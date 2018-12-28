@@ -1,0 +1,9 @@
+C:\Users\liorl\Documents\Programs\Sauce\Sauce\bin\Release\Sauce.exe.config
+C:\Users\liorl\Documents\Programs\Sauce\Sauce\bin\Release\Sauce.exe
+C:\Users\liorl\Documents\Programs\Sauce\Sauce\bin\Release\Sauce.pdb
+C:\Users\liorl\Documents\Programs\Sauce\Sauce\obj\Release\Sauce.UI.resources
+C:\Users\liorl\Documents\Programs\Sauce\Sauce\obj\Release\Sauce.Properties.Resources.resources
+C:\Users\liorl\Documents\Programs\Sauce\Sauce\obj\Release\Sauce.csproj.GenerateResource.cache
+C:\Users\liorl\Documents\Programs\Sauce\Sauce\obj\Release\Sauce.csproj.CoreCompileInputs.cache
+C:\Users\liorl\Documents\Programs\Sauce\Sauce\obj\Release\Sauce.exe
+C:\Users\liorl\Documents\Programs\Sauce\Sauce\obj\Release\Sauce.pdb
