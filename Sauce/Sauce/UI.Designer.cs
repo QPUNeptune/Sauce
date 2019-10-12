@@ -72,7 +72,7 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Cursor = System.Windows.Forms.Cursors.No;
             this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label2.Location = new System.Drawing.Point(12, 303);
+            this.label2.Location = new System.Drawing.Point(12, 311);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(93, 13);
             this.label2.TabIndex = 6;
@@ -85,7 +85,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Sauce.Properties.Resources.Shakespeare_quote;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(489, 325);
+            this.ClientSize = new System.Drawing.Size(489, 333);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
