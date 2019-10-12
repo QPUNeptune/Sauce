@@ -89,5 +89,8 @@
   <ItemGroup>
     <None Include="Resources\929110.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shakespeare_quote.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

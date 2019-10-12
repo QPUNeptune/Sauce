@@ -8,3 +8,12 @@ C:\Users\liorl\Documents\Programs\Sauce\Sauce\obj\Debug\Sauce.csproj.GenerateRes
 C:\Users\liorl\Documents\Programs\Sauce\Sauce\obj\Debug\Sauce.csproj.CoreCompileInputs.cache
 C:\Users\liorl\Documents\Programs\Sauce\Sauce\obj\Debug\Sauce.exe
 C:\Users\liorl\Documents\Programs\Sauce\Sauce\obj\Debug\Sauce.pdb
+C:\Users\nicko\Source\Repos\Sauce\Sauce\Sauce\bin\Debug\Sauce.exe.config
+C:\Users\nicko\Source\Repos\Sauce\Sauce\Sauce\bin\Debug\Sauce.exe
+C:\Users\nicko\Source\Repos\Sauce\Sauce\Sauce\bin\Debug\Sauce.pdb
+C:\Users\nicko\Source\Repos\Sauce\Sauce\Sauce\obj\Debug\Sauce.csprojAssemblyReference.cache
+C:\Users\nicko\Source\Repos\Sauce\Sauce\Sauce\obj\Debug\Sauce.UI.resources
+C:\Users\nicko\Source\Repos\Sauce\Sauce\Sauce\obj\Debug\Sauce.Properties.Resources.resources
+C:\Users\nicko\Source\Repos\Sauce\Sauce\Sauce\obj\Debug\Sauce.csproj.GenerateResource.cache
+C:\Users\nicko\Source\Repos\Sauce\Sauce\Sauce\obj\Debug\Sauce.exe
+C:\Users\nicko\Source\Repos\Sauce\Sauce\Sauce\obj\Debug\Sauce.pdb

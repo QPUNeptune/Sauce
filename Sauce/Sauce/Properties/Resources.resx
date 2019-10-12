@@ -121,10 +121,13 @@
   <data name="ezgif.com-crop (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ezgif.com-crop (3).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="929110" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\929110.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="523f9733f202a714341172e56fd5ba92" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\523f9733f202a714341172e56fd5ba92.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="929110" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\929110.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Shakespeare_quote" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shakespeare_quote.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

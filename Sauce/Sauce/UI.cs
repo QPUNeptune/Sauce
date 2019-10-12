@@ -33,11 +33,10 @@ namespace Sauce
         {
             string var;
             var = textBox2.Text;
-  
+            if (!var.Equals(""))
                 System.Diagnostics.Process.Start("https://nhentai.net/g/" + var);
-            
-            
-            
+            else
+                System.Windows.Forms.MessageBox.Show("WHERE IS THE SAUCE?!?!!?!?!?!","NANI!?!?!?!?!?", MessageBoxButtons.OK, MessageBoxIcon.Question);
         }
 
         private void UI_Load(object sender, EventArgs e)
